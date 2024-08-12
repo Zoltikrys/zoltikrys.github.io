@@ -2,8 +2,7 @@
 layout: post
 title: Ciri Lore Friendly Book Sword
 subtitle: A mod for The Witcher 3
-cover-img: /assets/img/ciri-sword-banner.png
-thumbnail-img: /aassets/img/ciri-sword-thumb.png
+thumbnail-img: /assets/img/ciri-sword-thumb.png
 share-img: /assets/img/ciri-sword-thumb.png
 ---
 
