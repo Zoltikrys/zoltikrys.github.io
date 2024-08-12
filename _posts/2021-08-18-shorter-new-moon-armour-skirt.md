@@ -16,4 +16,4 @@ Shortens the length of the skirt on the New Moon Armour so that it resembles an 
 **Uninstall:**
 * Delete "modShorterNewMoon" from your mods folder
 
-You can download the mod [here](https://www.nexusmods.com/witcher3/mods/5970?tab=files)
+You can download the mod [**here**](https://www.nexusmods.com/witcher3/mods/5970?tab=files)
