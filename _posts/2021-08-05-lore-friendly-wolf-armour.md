@@ -11,9 +11,9 @@ share-img: /assets/img/lore-friendly-wolf-armour-thumb.png
 Replaces the chain mail and removes the plate armour on the superior and mastercrafted variants of the wolf school gear
 
 **Installation:**
-Extract and place "mod_LoreWolf" in your mods folder
+* Extract and place "mod_LoreWolf" in your mods folder
 
 **Uninstall:**
-Delete mod_LoreWolf
+* Delete mod_LoreWolf
 
 You can download the mod [here](https://www.nexusmods.com/witcher3/mods/5925?tab=files)
