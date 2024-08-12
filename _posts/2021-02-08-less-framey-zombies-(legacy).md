@@ -12,4 +12,11 @@ share-img: /assets/img/less-framey-zombies-thumb.png
 
 Ever noticed how zombies that are far away animate are really framey? Worry no more, just replace the re2.exe file with the download and you worries should be gone. This was done by changing some hex values and can be done manually.
 
+**Installation:** 
+Make a copy of re2.exe as backup
+Replace re2.exe with the file from this mod
+
+**Uninstall:**
+Delete re2.exe and replace it with the backup
+
 You can download the mod [here](https://www.nexusmods.com/residentevil22019/mods/728?tab=files)
