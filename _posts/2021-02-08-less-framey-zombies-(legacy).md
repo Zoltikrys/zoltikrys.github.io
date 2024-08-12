@@ -19,4 +19,4 @@ Ever noticed how zombies that are far away animate are really framey? Worry no m
 **Uninstall:**
 * Delete re2.exe and replace it with the backup
 
-You can download the mod [here](https://www.nexusmods.com/residentevil22019/mods/728?tab=files)
+You can download the mod [**here**](https://www.nexusmods.com/residentevil22019/mods/728?tab=files)
