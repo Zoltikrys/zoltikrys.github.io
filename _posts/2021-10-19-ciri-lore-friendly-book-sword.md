@@ -9,8 +9,8 @@ share-img: /assets/img/ciri-sword-thumb.png
 ## A redesign of Ciri's sword based on the description from the books 
 
 This is a redesign of Ciri's sword based on the description from the books, making the metal a blackish colour to signify that it has been made of dark iron and adding an engraving at the base of the blade. The leather on the handle has also been retextured to look like shagreen. I also changed the scabbard to a black colour as I thought it was more fitting.
-![](assets/img/ciri-sword-banner.png)
-![](assets/img/ciri-sword-ss.png)
+![](/assets/img/ciri-sword-banner.png)
+![](/assets/img/ciri-sword-ss.png)
 **Installation:**
 * Unzip the file in your "mods" folder, if one doesn't exist create it, found in your Witcher 3 main game directory.
 
