@@ -17,7 +17,7 @@ I based this set loosely on the description of Geralt's armour in the books but 
 
 All of the items can be bought from Hattori's store in Novigrad
 
-If you like this armour design but would prefer the stats of the witcher armour sets, consider checking [this](https://www.nexusmods.com/witcher3/mods/6404)﻿ mod out and using the optional files :)
+If you like this armour design but would prefer the stats of the witcher armour sets, consider checking [**this**](https://www.nexusmods.com/witcher3/mods/6404)﻿ mod out and using the optional files :)
 
 **Installation:**
 * Unzip file and place "dlcnovigradarmor" in your dlc folder
@@ -25,7 +25,7 @@ If you like this armour design but would prefer the stats of the witcher armour 
 **Uninstall:**
 * Delete "dlcnovigradarmor" from your dlc folder
 
-You can download this mod [here](https://www.nexusmods.com/witcher3/mods/6093?tab=files)
+You can download this mod [**here**](https://www.nexusmods.com/witcher3/mods/6093?tab=files)
 
 **Console Commands**
 >Base Game:
@@ -45,6 +45,6 @@ You can download this mod [here](https://www.nexusmods.com/witcher3/mods/6093?ta
 
 **Credits:**
 
-Huge thanks to everyone in the Wolven Workshop discord for all their help and most notably to [Bjorn](https://next.nexusmods.com/profile/Bjorn18/about-me?gameId=952) as I couldn't have done nearly as well as I did without his input and feedback.
+Huge thanks to everyone in the Wolven Workshop discord for all their help and most notably to [**Bjorn**](https://next.nexusmods.com/profile/Bjorn18/about-me?gameId=952) as I couldn't have done nearly as well as I did without his input and feedback.
 
-Thanks to [LordMazour](https://next.nexusmods.com/profile/LordMazour/about-me) for creating the Czech translation.
+Thanks to [**LordMazour**](https://next.nexusmods.com/profile/LordMazour/about-me) for creating the Czech translation.
