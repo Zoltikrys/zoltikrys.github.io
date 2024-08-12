@@ -23,9 +23,9 @@ navbar-links:
   About Me: "aboutme"
   Itch.io: "https://zoltikrys.itch.io/"
   NexusMods: "https://next.nexusmods.com/profile/Zoltikrys/about-me"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+ # Resources:
+ #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+ #   - Learn markdown: "https://www.markdowntutorial.com/"
  # Author's home: "https://deanattali.com"
 
 ################
