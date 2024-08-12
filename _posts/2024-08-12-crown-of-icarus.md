@@ -10,5 +10,5 @@ I recently participated in the GDG Skills Bootcamp, and it was an incredible lea
 
 The bootcamp also provided me with the opportunity to collaborate with a team on developing a game called Crown of Icarus, which proved to be an incredible learning experience. Throughout the development process, we faced a few setbacks, resulting in a finished prototype rather than a complete game. While this was somewhat disappointing, our team is committed to continuing development, and with the strong foundation we've built, I’m hopeful that we’ll be able to bring the game to completion.
 
-
+![Title Image](/assets/img/Crown_of_Icarus.png)
 You can download the prototype [**here**](https://zoltikrys.itch.io/crown-of-icarus-gdg)
