@@ -25,6 +25,8 @@ If you like this armour design but would prefer the stats of the witcher armour 
 **Uninstall:**
 * Delete "dlcnovigradarmor" from your dlc folder
 
+You can download this mod [here](https://www.nexusmods.com/witcher3/mods/6093?tab=files)
+
 **Console Commands**
 >Base Game:
 >* Armour: additem('novigrad jacket')
