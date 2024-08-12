@@ -35,7 +35,7 @@ If you like this armour design but would prefer the stats of the witcher armour 
 >New Game Plus:
 >﻿* Armour: additem('novigrad jacket ngp')
 >﻿* Armour: additem('novigrad jacket ngp')
->* Pants: additem('novigrad pants ngp')
+>* Armour: additem('novigrad pants ngp')
 >* Pants: additem('novigrad pants ngp')
 >* Gloves: additem('novigrad gloves ngp')
 >* Boots: additem('novigrad boots ngp')
