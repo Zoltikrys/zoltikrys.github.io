@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
+title: About
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Christopher Bridges. I have a Bachelor's Degree in Computer Hardware and Software Engineering
 
 - I rock a great mustache
 - I'm extremely loyal to my family
