@@ -20,10 +20,10 @@ All of the items can be bought from Hattori's store in Novigrad
 If you like this armour design but would prefer the stats of the witcher armour sets, consider checking [this](https://www.nexusmods.com/witcher3/mods/6404)﻿ mod out and using the optional files :)
 
 **Installation:**
-* Unzip file and place "dlcnovigradarmour" in your dlc folder
+* Unzip file and place "dlcnovigradarmor" in your dlc folder
 
 **Uninstall:**
-* Delete "dlcnovigradarmour" from your dlc folder
+* Delete "dlcnovigradarmor" from your dlc folder
 
 **Console Commands**
 >Base Game:
@@ -33,6 +33,7 @@ If you like this armour design but would prefer the stats of the witcher armour 
 >* Boots: additem('novigrad boots')
 
 >New Game Plus:
+>﻿* Armour: additem('novigrad jacket ngp')
 >﻿* Armour: additem('novigrad jacket ngp')
 >* Pants: additem('novigrad pants ngp')
 >* Gloves: additem('novigrad gloves ngp')
