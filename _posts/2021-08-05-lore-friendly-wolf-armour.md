@@ -16,4 +16,4 @@ Replaces the chain mail and removes the plate armour on the superior and masterc
 **Uninstall:**
 * Delete mod_LoreWolf
 
-You can download the mod [here](https://www.nexusmods.com/witcher3/mods/5925?tab=files)
+You can download the mod [**here**](https://www.nexusmods.com/witcher3/mods/5925?tab=files)
