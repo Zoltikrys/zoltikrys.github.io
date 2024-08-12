@@ -16,4 +16,4 @@ This is a redesign of Ciri's sword based on the description from the books, maki
 **Uninstall:**
 * Delete modFalkaSword from your mods folder
 
-You can download this mod [here](https://www.nexusmods.com/witcher3/mods/6119?tab=files)
+You can download this mod [**here**](https://www.nexusmods.com/witcher3/mods/6119?tab=files)
