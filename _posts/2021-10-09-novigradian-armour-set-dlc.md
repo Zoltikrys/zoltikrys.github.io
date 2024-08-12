@@ -18,9 +18,9 @@ I based this set loosely on the description of Geralt's armour in the books but 
 All of the items can be bought from Hattori's store in Novigrad
 
 If you like this armour design but would prefer the stats of the witcher armour sets, consider checking [**this**](https://www.nexusmods.com/witcher3/mods/6404)﻿ mod out and using the optional files :)
-![](assets/img/novigrad-armour-main.png)
-![](assets/img/novigrad-armour-kneel.png)
-![](assets/img/novigrad-armour-stats.png)
+![](/assets/img/novigrad-armour-main.png)
+![](/assets/img/novigrad-armour-kneel.png)
+![](/assets/img/novigrad-armour-stats.png)
 
 **Installation:**
 * Unzip file and place "dlcnovigradarmor" in your dlc folder
