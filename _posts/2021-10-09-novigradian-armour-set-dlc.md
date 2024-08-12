@@ -39,9 +39,10 @@ If you like this armor design but would prefer the stats of the witcher armor se
 *Boots: additem('novigrad boots ngp')
 
 **Conflicts:**
-Any mod that alters the stats of armors
+* Any mod that alters the stats of armors
 
 **Credits:**
+
 Huge thanks to everyone in the Wolven Workshop discord for all their help and most notably to [Bjorn](https://next.nexusmods.com/profile/Bjorn18/about-me?gameId=952) as I couldn't have done nearly as well as I did without his input and feedback.
 
 Thanks to [LordMazour](https://next.nexusmods.com/profile/LordMazour/about-me) for creating the Czech translation.
