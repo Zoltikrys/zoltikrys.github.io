@@ -9,6 +9,8 @@ share-img: /assets/img/lore-friendly-wolf-armour-thumb.png
 ## Lore friendly changes to wolf school gear
 
 Replaces the chain mail and removes the plate armour on the superior and mastercrafted variants of the wolf school gear
+![](/assets/img/lore-wolf-1.png)
+![](/assets/img/lore-wolf-2.png)
 
 **Installation:**
 * Extract and place "mod_LoreWolf" in your mods folder
