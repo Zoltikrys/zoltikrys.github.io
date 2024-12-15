@@ -1,6 +1,7 @@
 ---
 title: Ciri Lore Friendly Book Sword
 subtitle: A mod for The Witcher 3
+project-index: 96
 thumbnail-img: /assets/images/ciri-sword-thumb.png
 share-img: /assets/images/ciri-sword-thumb.png
 ---
