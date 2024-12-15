@@ -71,7 +71,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Zoltikrys/"
-    - label: "Itch.io needs updating"
+    - label: "Itch.io"
       icon: "fab fa-fw fa-itch-io"
       url: "https://zoltikrys.itch.io/"
     - label: "NexusMods"
