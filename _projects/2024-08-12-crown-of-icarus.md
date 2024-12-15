@@ -4,8 +4,8 @@ subtitle: A prototype game made for the GDG bootcamp
 project-index: 95
 thumbnail-img: "/assets/images/Crown_of_Icarus.png"
 share-img: "/assets/images/Crown_of_Icarus.png"
-#header:
-teaser: "/assets/images/Crown_of_Icarus.png"
+header:
+#teaser: "/assets/images/Crown_of_Icarus.png"
 ---
 
 I recently participated in the GDG Skills Bootcamp, and it was an incredible learning experience that deepened my understanding of the industry and the development cycle. Over the course of sixteen weeks, I had the privilege of attending lectures and insightful talks, including sessions with industry experts who shared their valuable experiences. 
