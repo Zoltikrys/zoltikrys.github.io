@@ -119,7 +119,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #collections
+  #_projects
   - scope:
       path: ""
       type: projects
@@ -150,7 +150,7 @@ tag_archive:
 collections:
   projects:
     output: true
-    #permalink: /:collection/:path/
+    permalink: /:collection/:path/
 
 
 collections:
