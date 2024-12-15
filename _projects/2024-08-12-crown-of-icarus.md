@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Crown of Icarus
 subtitle: A prototype game made for the GDG bootcamp
 thumbnail-img: /assets/images/Crown_of_Icarus.png
