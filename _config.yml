@@ -87,7 +87,7 @@ author:
 
 footer:
   links:
-    - label: "LinkedIN=n"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/christopher-bridges-23852b231/"
     - label: "GitHub"
