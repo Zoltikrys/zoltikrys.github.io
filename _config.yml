@@ -137,7 +137,7 @@ tag_archive:
   path: /tags/
 
 collections:
-  projetcs:
+  projects:
     output: true
     permalink: /:collection/:path/
 
