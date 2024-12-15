@@ -119,6 +119,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  #collections
+  - scope:
+      path: ""
+      type: collection
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
 category_archive:
   type: liquid
@@ -126,3 +135,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  projetcs:
+    output: true
+    permalink: /:collection/:path/
+
