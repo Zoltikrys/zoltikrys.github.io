@@ -1,8 +1,6 @@
 main:
-  - title: "All Projects"
-    url: /projects/
-  - title: "Mods"
-    url: /mods/
+  - title: "Portfolio"
+    url: /portfolio/
   - title: "About"
     url: /about/
   - title: "CV"
