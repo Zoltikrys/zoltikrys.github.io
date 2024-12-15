@@ -4,6 +4,8 @@ subtitle: A mod for The Witcher 3
 project-index: 97
 thumbnail-img: /assets/images/novigrad-armour-thumb.png
 share-img: /assets/images/novigrad-armour-thumb.png
+overlay_image: "/assets/images/novigrad-armour-thumb.png"
+teaser: "/assets/images/novigrad-armour-thumb.png"
 
 ---
 
