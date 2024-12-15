@@ -3,8 +3,6 @@ main:
     url: /projects/
   - title: "Mods"
     url: /mods/
-  #- title: "Tags"
-  #  url: /tags/
   - title: "About"
     url: /about/
   -title: "CV"
