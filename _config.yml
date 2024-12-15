@@ -14,7 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Christopher Bridges
-email:
+title_separator: "|"
+subtitle: "Programmer"
+name: "Christopher Bridges"
+description: "Portfolio of Christopher Bridges"
+email: "christopher.bridges2001@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -62,6 +66,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Game Development Master's student."
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:christopher.bridges2001@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/christopher-bridges-23852b231/"
