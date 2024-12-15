@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Novigradian Armour Set DLC
 subtitle: A mod for The Witcher 3
 thumbnail-img: /assets/images/novigrad-armour-thumb.png
