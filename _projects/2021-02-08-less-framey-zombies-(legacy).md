@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Less Framey Zombies (Legacy)
 subtitle: A mod for Resident Evil 2 Remake
 thumbnail-img: assets/images/less-framey-zombies-thumb.png
