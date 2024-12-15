@@ -1,12 +1,14 @@
 ---
 title: Crown of Icarus
-subtitle: A prototype game made for the GDG bootcamp
+#subtitle: A prototype game made for the GDG bootcamp
 project-index: 95
 thumbnail-img: "/assets/images/Crown_of_Icarus.png"
 share-img: "/assets/images/Crown_of_Icarus.png"
-overlay_image: "/assets/images/Crown_of_Icarus.png"
-teaser: "/assets/images/Crown_of_Icarus.png"
+header:
+  overlay_image: "/assets/images/Crown_of_Icarus.png"
+  teaser: "/assets/images/Crown_of_Icarus.png"
 ---
+A prototype game made for the GDG bootcamp
 
 I recently participated in the GDG Skills Bootcamp, and it was an incredible learning experience that deepened my understanding of the industry and the development cycle. Over the course of sixteen weeks, I had the privilege of attending lectures and insightful talks, including sessions with industry experts who shared their valuable experiences. 
 
