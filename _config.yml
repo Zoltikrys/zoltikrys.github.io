@@ -129,6 +129,17 @@ defaults:
       share: true
 
 
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
+
+
 category_archive:
   type: liquid
   path: /categories/
@@ -140,4 +151,10 @@ collections:
   projects:
     output: true
     #permalink: /:collection/:path/
+
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
