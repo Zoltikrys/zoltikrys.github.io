@@ -1,6 +1,7 @@
 ---
 title: Shorter New Moon Armour Skirt
 subtitle: A mod for The Witcher 3
+project-index: 98
 thumbnail-img: /assets/images/new-moon-thumb.png
 share-img: /assets/images/new-moon-thumb.png
 ---
