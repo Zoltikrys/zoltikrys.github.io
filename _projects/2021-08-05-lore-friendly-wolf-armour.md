@@ -1,6 +1,7 @@
 ---
 title: Lore Friendly Wolf Armour
 subtitle: A mod for The Witcher 3
+project-index: 99
 thumbnail-img: /assets/images/lore-friendly-wolf-armour-thumb.png
 share-img: /assets/images/lore-friendly-wolf-armour-thumb.png
 ---
