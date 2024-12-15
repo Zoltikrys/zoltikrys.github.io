@@ -4,6 +4,8 @@ subtitle: A mod for Resident Evil 2 Remake
 project-index: 100
 thumbnail-img: assets/images/less-framey-zombies-thumb.png
 share-img: assets/images/less-framey-zombies-thumb.png
+overlay_image: "assets/images/less-framey-zombies-thumb.png"
+teaser: "assets/images/less-framey-zombies-thumb.png"
 ---
 
 ## Makes far away zombies animate at a higher framerate 
