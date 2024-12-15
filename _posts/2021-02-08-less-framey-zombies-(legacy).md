@@ -2,8 +2,8 @@
 layout: post
 title: Less Framey Zombies (Legacy)
 subtitle: A mod for Resident Evil 2 Remake
-thumbnail-img: /assets/image/less-framey-zombies-thumb.png
-share-img: /assets/image/less-framey-zombies-thumb.png
+thumbnail-img: assets/images/less-framey-zombies-thumb.png
+share-img: assets/images/less-framey-zombies-thumb.png
 ---
 
 ## Makes far away zombies animate at a higher framerate 
