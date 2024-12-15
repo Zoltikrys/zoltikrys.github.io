@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Shorter New Moon Armour Skirt
 subtitle: A mod for The Witcher 3
 thumbnail-img: /assets/images/new-moon-thumb.png
