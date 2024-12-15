@@ -122,10 +122,10 @@ defaults:
   #collections
   - scope:
       path: ""
-      type: collection
+      type: projects
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
 
 
@@ -139,5 +139,5 @@ tag_archive:
 collections:
   projects:
     output: true
-    permalink: /:collection/:path/
+    #permalink: /:collection/:path/
 
