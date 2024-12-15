@@ -3,7 +3,7 @@ title: "Projects"
 layout: collection
 permalink: /projects/
 author_profile: true
-collection: projects
+collection: _posts
 
 # https://mmistakes.github.io/minimal-mistakes/docs/layouts/#taxonomy-archives
 entries_layout: grid
