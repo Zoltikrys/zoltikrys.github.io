@@ -4,6 +4,8 @@ subtitle: A mod for The Witcher 3
 project-index: 96
 thumbnail-img: /assets/images/ciri-sword-thumb.png
 share-img: /assets/images/ciri-sword-thumb.png
+overlay_image: "/assets/images/ciri-sword-thumb.png"
+teaser: "/assets/images/ciri-sword-thumb.png"
 ---
 
 ## A redesign of Ciri's sword based on the description from the books 
