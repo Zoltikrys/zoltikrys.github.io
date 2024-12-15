@@ -2,8 +2,8 @@
 layout: post
 title: Lore Friendly Wolf Armour
 subtitle: A mod for The Witcher 3
-thumbnail-img: /assets/img/lore-friendly-wolf-armour-thumb.png
-share-img: /assets/img/lore-friendly-wolf-armour-thumb.png
+thumbnail-img: /assets/images/lore-friendly-wolf-armour-thumb.png
+share-img: /assets/images/lore-friendly-wolf-armour-thumb.png
 ---
 
 ## Lore friendly changes to wolf school gear
