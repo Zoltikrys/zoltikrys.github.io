@@ -9,7 +9,7 @@ share-img: /assets/images/new-moon-thumb.png
 ## Shortens the length of the skirt on the New Moon Armour 
 
 Shortens the length of the skirt on the New Moon Armour so that it resembles an untucked shirt
-![](/assets/img/new-moon-img.png)
+![](/assets/images/new-moon-img.png)
 
 **Installation:**
 * Put "modShorterNewMoon" into your mods folder
