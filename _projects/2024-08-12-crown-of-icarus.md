@@ -1,6 +1,7 @@
 ---
 title: Crown of Icarus
 subtitle: A prototype game made for the GDG bootcamp
+project-index: 95
 thumbnail-img: /assets/images/Crown_of_Icarus.png
 share-img: /assets/images/Crown_of_Icarus.png
 ---
