@@ -1,5 +1,5 @@
 ---
-title: Procedural Dungeon Devlog
+title: Procedural Dungeon Devevlopment Blog
 layout: collection
 permalink: /procedural/
 collection: procedural
