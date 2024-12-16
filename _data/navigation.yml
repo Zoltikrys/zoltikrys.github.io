@@ -1,6 +1,8 @@
 main:
   - title: "Projects"
     url: /projects/
+  - title: "Procedural Dungeon Devlog"
+    url: /procedural/
   - title: "About"
     url: /about/
   - title: "CV"
