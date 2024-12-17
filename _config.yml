@@ -140,7 +140,7 @@ defaults:
       path: ""
       type: procedural
     values:
-      layout: single
+      layout: wide
       author_profile: true
       share: true
 
