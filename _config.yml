@@ -63,7 +63,7 @@ plugins:
 
 author:
   name   : "Christopher Bridges"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/me.jpg"
   bio    : "Game Development Master's student"
   links:
     - label: "Email"
