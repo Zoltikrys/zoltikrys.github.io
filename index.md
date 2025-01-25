@@ -7,6 +7,4 @@ author_profile: true
 ---
 
 I am a Master's student in Game Development at the University of Gloucestershire. My current projects are:
-- Procedural Dungeon Generator
 - Undisclosed puzzle/adventure game developed in Unity
-- Undisclosed action/adventure game developed in Unreal Engine 5
