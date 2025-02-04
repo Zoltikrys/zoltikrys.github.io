@@ -84,6 +84,9 @@ author:
     - label: "NexusMods"
       icon: "fas fa-fw fa-link"
       url: "https://next.nexusmods.com/profile/Zoltikrys/mods"
+    # Set homepage layout to splash
+    home_layout: splash
+
 
 footer:
   links:
