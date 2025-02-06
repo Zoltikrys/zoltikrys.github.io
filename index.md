@@ -10,5 +10,17 @@ header:
   overlay_color: rgba(0, 0, 0, 0.4) # Add an overlay for readability
 ---
 
-I am a Master's student in Game Development at the University of Gloucestershire. My current projects are:
-- Undisclosed puzzle/adventure game developed in Unity
+I am a Master's student in Game Development at the University of Gloucestershire. 
+
+## Current Projects
+
+### Undisclosed Puzzle/Adventure Game
+- **Engine:** Unity
+- **Description:** A puzzle/adventure game currently in development, featuring challenging mechanics, immersive environments, and a captivating narrative.
+- **Status:** In progress
+
+
+## Skills
+- **Game Engines:** Unity, Unreal Engine
+- **Programming Languages:** C#, C++
+- **Tools:** Visual Studio, Git, Autodesk Inventor
