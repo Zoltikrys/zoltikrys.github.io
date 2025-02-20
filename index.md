@@ -22,5 +22,5 @@ I am a Master's student in Game Development at the University of Gloucestershire
 
 ## Skills
 - **Game Engines:** Unity, Unreal Engine
-- **Programming Languages:** C#, C++
+- **Programming Languages:** C#, C++, Python, Lua (basic)
 - **Tools:** Visual Studio, Git, Autodesk Inventor
