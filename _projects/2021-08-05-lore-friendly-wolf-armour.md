@@ -9,6 +9,8 @@ header:
 
 ## Lore friendly changes to wolf school gear
 
+This was the first mod I made for The Witcher 3, this was mostly done to learn how to use the mod tools as I wanted to make a big armour mod. When making this mod I learnt a bit of Lua as well as how to swap out textures using the mod tools.
+
 Replaces the chain mail and removes the plate armour on the superior and mastercrafted variants of the wolf school gear
 ![](/assets/images/lore-wolf-1.png)
 ![](/assets/images/lore-wolf-2.png)
