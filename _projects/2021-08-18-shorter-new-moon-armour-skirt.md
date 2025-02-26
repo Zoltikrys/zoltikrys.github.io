@@ -9,6 +9,8 @@ header:
 
 ## Shortens the length of the skirt on the New Moon Armour 
 
+This was the second mod I made for The Witcher 3, I imported one of the models into Blender and edited the mesh to resemble a mod I had seen previously but was since deleted.
+
 Shortens the length of the skirt on the New Moon Armour so that it resembles an untucked shirt
 ![](/assets/images/new-moon-img.png)
 
