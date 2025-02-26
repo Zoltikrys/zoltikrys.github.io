@@ -11,7 +11,7 @@ header:
 
 **Since the new next-gen update, this mod only works with the dx11 non-rt version.**
 
-Ever noticed how zombies that are far away animate are really framey? Worry no more, just replace the re2.exe file with the downloaded one and your worries will be gone. This was done by changing some hex values and can be done manually.
+Resident Evil 2 Remake has zombies that are further away from the player animate at a lower frame rate, this can appear quite jarring so I modified the .exe file using a hex editor so that they animate at the same frame rate as everything else.
 
 **Installation:** 
 * Make a copy of re2.exe as backup
