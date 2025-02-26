@@ -10,9 +10,7 @@ header:
 
 ## An armour set loosely based on the description in the books 
 
-Ever notice how each region in TW3 got their own armour DLC except Novigrad? (ok well it's not exactly a region but considering how much of the game takes place in Novigrad alone it may as well be)
-
-Well worry no longer - this set aims to fill that void!
+When creating this mod, I had to import several models from the game into Blender using the mod tools. I essentially kitbashed a model together as I am not well versed at modelling. I also made icons for the armour pieces in the inventory and created stats for the armour set using Lua. This mod acts essentially as a DLC as it does not replace any items and is it's own unique set, which was rarely done at the time but has become more accessible since the release of the updated mod tools.
 
 I based this set loosely on the description of Geralt's armour in the books but I also wanted it to feel like something Geralt would wear instead of it being a 1:1 copy (hence the pants being based on the viper/KM pants etc)
 
