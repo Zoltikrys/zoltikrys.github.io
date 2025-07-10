@@ -2,13 +2,6 @@
 title: Procedural Dungeon Generator
 excerpt: "View my procedural dungeon generation devlog."
 layout: single
-collection: projects
-permalink: /projects/procedural/
-redirect_to: /procedural/
-entries_layout: grid
-sort_by: project-index
-author_profile: true
-classes: wide
 project-index: 94
 #thumbnail-img: assets/images/wall-gen.png
 share-img: assets/images/wall-gen.png
