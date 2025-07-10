@@ -1,8 +1,9 @@
 ---
 title: Procedural Dungeon Generator
-excerpt: "View my procedural generation demos and tools."
+excerpt: "View my procedural dungeon generation devlog."
 layout: single
-
+collection: projects
+permalink: /projects/procedural/
 redirect_to: /procedural/
 entries_layout: grid
 sort_by: project-index
