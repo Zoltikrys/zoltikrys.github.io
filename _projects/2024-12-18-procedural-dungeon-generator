@@ -1,8 +1,9 @@
 ---
 title: Procedural Dungeon Generator
-layout: collection
-permalink: /procedural/
-collection: procedural
+excerpt: "View my procedural generation demos and tools."
+layout: single
+
+redirect_to: /procedural/
 entries_layout: grid
 sort_by: project-index
 author_profile: true
