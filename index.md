@@ -11,25 +11,21 @@ header:
 
 feature_row:
   - image_path: /assets/images/ciri-sword-banner.png
-    alt: "Echoes of the Past"
-    title: "Echoes of the Past"
-    excerpt: "A story-driven puzzle game set in a medieval environment."
+    alt: "Ciri Lore Friendly Sword Mod"
+    title: "Ciri Lore Friendly Sword Mod"
+    excerpt: "A mod to make Ciri's sword in The Witcher 3 resemble its descriptions from the books"
     url: "/projects/2021-10-19-ciri-lore-friendly-book-sword/"
-    btn_label: "Read & Play!"
+    btn_label: "Read"
     btn_class: "btn--primary"
 ---
 
 I am a Master's student in Game Development at the University of Gloucestershire. 
 
+
+
+## Recent Projects
+
 {% include feature_row %}
-
-## Current Projects
-
-### Undisclosed Puzzle/Adventure Game
-- **Engine:** Unity
-- **Description:** A puzzle/adventure game currently in development, featuring challenging mechanics, immersive environments, and a captivating narrative.
-- **Status:** In progress
-
 
 ## Skills
 - **Game Engines:** Unity, Unreal Engine
