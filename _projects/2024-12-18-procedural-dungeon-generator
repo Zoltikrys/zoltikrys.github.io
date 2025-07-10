@@ -1,7 +1,7 @@
 ---
 title: Procedural Dungeon Generator
 excerpt: "View my procedural dungeon generation devlog."
-layout: single
+layout: redirect
 collection: projects
 permalink: /projects/procedural/
 redirect_to: /procedural/
