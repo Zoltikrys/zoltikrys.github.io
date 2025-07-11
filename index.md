@@ -9,12 +9,45 @@ header:
   image: /assets/images/ciri-sword-banner.png
   overlay_color: rgba(0, 0, 0, 0.4) # Add an overlay for readability
 
-feature_row:
+feature_row_test:
   - image_path: /assets/images/ciri-sword-banner.png
     alt: "Ciri Lore Friendly Sword Mod"
     title: "Ciri Lore Friendly Sword Mod"
     excerpt: "A mod to make Ciri's sword in The Witcher 3 resemble its descriptions from the books"
     url: "/projects/2021-10-19-ciri-lore-friendly-book-sword/"
+    btn_label: "Read"
+    btn_class: "btn--primary"
+
+feature_row:
+  - image_path: /assets/images/BLU_MainCapsule.png
+    alt: "B.L.U."
+    title: "B.L.U."
+    excerpt: "An puzzle/adventure game where you escape the factory that built you."
+    url: "/projects/2025-05-30-blu/"
+    btn_label: "Read"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/ciri-sword-banner.png
+    alt: "Machine Learning Puzzle Agent"
+    title: "Machine Learning Puzzle Agent"
+    excerpt: "A machine learning agent made using Unity's MLAgents Toolkit"
+    url: "/projects/2025-05-21-machine-learning-puzzle-agent"
+    btn_label: "Read"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/wall-gen.png
+    alt: "Procedural Dungeon Generator"
+    title: "Procedural Dungeon Generator"
+    excerpt: "A procedural dungeon generator made in Unity"
+    url: "/procedural/"
+    btn_label: "Read"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/Crown_of_Icarus.png
+    alt: "Crown of Icarus"
+    title: "Crown of Icarus"
+    excerpt: "A puzzle/maze game made as part of the GDG Bootcamp"
+    url: "/projects/2024-08-12-crown-of-icarus/"
     btn_label: "Read"
     btn_class: "btn--primary"
 ---
