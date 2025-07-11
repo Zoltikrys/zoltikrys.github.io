@@ -27,7 +27,7 @@ feature_row:
     btn_label: "Read"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/ciri-sword-banner.png
+  - image_path: /assets/images/ml-landing.png
     alt: "Machine Learning Puzzle Agent"
     title: "Machine Learning Puzzle Agent"
     excerpt: "A machine learning agent made using Unity's MLAgents Toolkit"
