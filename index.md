@@ -36,8 +36,8 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/wall-gen.png
-    alt: "Procedural Dungeon Generator"
-    title: "Procedural Dungeon Generator"
+    alt: "Procedural Dungeon Generator Devlog"
+    title: "Procedural Dungeon Generator Devlog"
     excerpt: "A procedural dungeon generator made in Unity"
     url: "/procedural/"
     btn_label: "Read"
