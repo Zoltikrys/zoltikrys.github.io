@@ -18,6 +18,14 @@ feature_row_test:
     btn_label: "Read"
     btn_class: "btn--primary"
 
+  - image_path: /assets/images/Crown_of_Icarus_Landing.png
+    alt: "Crown of Icarus"
+    title: "Crown of Icarus"
+    excerpt: "A puzzle/maze game made as part of the GDG Bootcamp"
+    url: "/projects/2024-08-12-crown-of-icarus/"
+    btn_label: "Read"
+    btn_class: "btn--primary"
+
 feature_row:
   - image_path: /assets/images/BLU_MainCapsule.png
     alt: "B.L.U."
@@ -43,13 +51,7 @@ feature_row:
     btn_label: "Read"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/Crown_of_Icarus_Landing.png
-    alt: "Crown of Icarus"
-    title: "Crown of Icarus"
-    excerpt: "A puzzle/maze game made as part of the GDG Bootcamp"
-    url: "/projects/2024-08-12-crown-of-icarus/"
-    btn_label: "Read"
-    btn_class: "btn--primary"
+
 
 ---
 
