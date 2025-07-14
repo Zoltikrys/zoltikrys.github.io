@@ -3,7 +3,7 @@ main:
     url: /projects/
   - title: "Procedural Dungeon Devlog"
     url: /procedural/
-  - title: "About"
-    url: /about/
+ # - title: "About"
+  #  url: /about/
   - title: "CV"
     url: /cv/
