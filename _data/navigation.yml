@@ -1,9 +1,9 @@
 main:
   - title: "Projects"
     url: /projects/
+  - title: "CV"
+    url: /cv/
   - title: "Procedural Dungeon Devlog"
     url: /procedural/
  # - title: "About"
   #  url: /about/
-  - title: "CV"
-    url: /cv/
