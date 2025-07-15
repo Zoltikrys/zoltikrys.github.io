@@ -64,6 +64,7 @@ feature_row:
 - **Programming Languages:** C#, C++, Python, Lua
 - **Tools:** Visual Studio, Git, Autodesk Inventor
 
+## About
 
 I'm Chris, a Master's student in Game Development at the University of Gloucestershire. Throughout my studies, I focused on software and robotics, and I am currently working on multiple programming projects. 
 
