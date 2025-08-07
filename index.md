@@ -69,3 +69,16 @@ feature_row:
 I'm Chris, a Master's student in Game Development at the University of Gloucestershire. Throughout my studies, I focused on software and robotics, and I am currently working on multiple programming projects. 
 
 I have experience using C++, C# and Python as well as Unreal Engine 5 and Unity. In addition to this, I'm currently exploring the Godot Engine and what I can do with that. I'm passionate about using my skills to contribute to projects and I'm always eager to develop my skills and learn new things. 
+
+<div id="contact">
+        <h2>Get in Touch</h2>
+        <div id="contact-form">
+                <form action="https://formspree.io/f/mnnzoprp" method="POST">
+                <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="email" name="_replyto" placeholder="Your email" required>
+                <textarea name="message" placeholder="Type your message" required></textarea>
+                <button type="submit">Send</button>
+            </form>
+        </div>
+    </div>
+
