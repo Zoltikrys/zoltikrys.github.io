@@ -1,3 +1,10 @@
+---
+title: "Contact"
+permalink: /contact/
+layout: single
+author_profile: true
+---
+
 <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
