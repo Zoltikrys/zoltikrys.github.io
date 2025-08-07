@@ -73,8 +73,10 @@ I have experience using C++, C# and Python as well as Unreal Engine 5 and Unity.
 <div id="contact">
         <h2>Get in Touch</h2>
         <div id="contact-form">
+                <background= #ffffff>
                 <form action="https://formspree.io/f/mnnzoprp" method="POST">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
+                <input type="text" name="_name" placeholder="Your name" required>
                 <input type="email" name="_replyto" placeholder="Your email" required>
                 <textarea name="message" placeholder="Type your message" required></textarea>
                 <button type="submit">Send</button>
