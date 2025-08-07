@@ -79,11 +79,6 @@ I have experience using C++, C# and Python as well as Unreal Engine 5 and Unity.
                 <input type="email" name="_replyto" placeholder="Your email" required>
                 <textarea name="message" placeholder="Type your message" required></textarea>
                 <button type="submit">Send</button>
-                .container {
-                    border-radius: 5px;
-                    background-color: #f2f2f2;
-                    padding: 20px;
-                  }
             </form>
         </div>
     </div>
