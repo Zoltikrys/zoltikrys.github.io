@@ -7,6 +7,7 @@ share-img: "/assets/images/Crown_of_Icarus.png"
 header:
   teaser: "/assets/images/Crown_of_Icarus.png"
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e0tYSSLEKeo?si=VHgzr__s7AJ3pIX6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I recently participated in the GDG Skills Bootcamp, and it was an incredible learning experience that deepened my understanding of the industry and the development cycle. Over the course of sixteen weeks, I had the privilege of attending lectures and insightful talks, including sessions with industry experts who shared their valuable experiences. 
 
@@ -19,3 +20,4 @@ The bootcamp also provided me with the opportunity to collaborate with a team on
 ![Title Image](/assets/images/icarus-ss.png)
 
 You can download the prototype [**here**](https://zoltikrys.itch.io/crown-of-icarus-gdg)
+
